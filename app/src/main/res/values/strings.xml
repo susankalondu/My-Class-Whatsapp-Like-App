@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Like Whatsup Application</string>
+    <string name="tab_text_1">Chats</string>
+    <string name="tab_text_2">Status</string>
+    <string name="tab_text_3">Calls</string>
+
+    <string-array name="chat_names">
+        <item>King</item>
+        <item>Camara</item>
+        <item>Susan</item>
+        <item>Ian</item>
+        <item>Aching</item>
+      <item>Brian</item>
+    </string-array>
+
+
+</resources>
